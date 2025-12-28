@@ -1,0 +1,6 @@
+streamlit
+pandas
+pdfplumber
+gspread
+google-auth
+plotly
