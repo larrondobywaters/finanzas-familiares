@@ -4,3 +4,4 @@ pdfplumber
 gspread
 google-auth
 plotly
+openpyxl
